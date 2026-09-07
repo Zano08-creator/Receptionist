@@ -1,5 +1,5 @@
 """
-Elyndra la Receptionist — index.py
+Elyndra la Receptionist — index.js
 ------------------------------------
 Punto d'ingresso del bot. Invia, ogni 8 ore, un messaggio (embed) nel
 canale scelto per annunciare che le missioni della Gilda di Osteria si
