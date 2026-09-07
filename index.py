@@ -51,7 +51,7 @@ DEFAULT_CONFIG = {
     ),
     "footer": "Elyndra la Receptionist • Gilda di Osteria",
     "color": 0xB388FF,  # viola/lilla elfico
-    "image_url": "https://cdn.discordapp.com/attachments/1523058897714413698/1546608132682424340/26b49355-7328-4c44-95d6-9c0da7bf5b99_-_Modificata.png?ex=6aa06691&is=6a9f1511&hm=5d3a78984866185a73229380708d599fd8d1405b370c778a51dab78bceef3d36&";  # se impostata, ha priorità sull'immagine locale
+    "image_url": "https://cdn.discordapp.com/attachments/1523058897714413698/1546608132682424340/26b49355-7328-4c44-95d6-9c0da7bf5b99_-_Modificata.png?ex=6aa06691&is=6a9f1511&hm=5d3a78984866185a73229380708d599fd8d1405b370c778a51dab78bceef3d36&",  # se impostata, ha priorità sull'immagine locale
 }
 
 
