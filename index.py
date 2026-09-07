@@ -40,7 +40,7 @@ CONFIG_PATH = os.path.join(os.path.dirname(__file__), "config.json")
 LOCAL_IMAGE_PATH = os.path.join(os.path.dirname(__file__), "assets", "elyndra.png")
 
 DEFAULT_CONFIG = {
-    "channel_id": None,
+    "channel_id": 1546608761228238908,
     "title": "📜 Le missioni della Gilda si sono rinnovate!",
     "description": (
         "\n\n"
